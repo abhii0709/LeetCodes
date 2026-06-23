@@ -6,9 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/abhii0709/LeetCodes/tree/master/0605-can-place-flowers) |
 | [1480-running-sum-of-1d-array](https://github.com/abhii0709/LeetCodes/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/abhii0709/LeetCodes/tree/master/1480-running-sum-of-1d-array) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/abhii0709/LeetCodes/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
