@@ -23,6 +23,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/abhii0709/LeetCodes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0344-reverse-string](https://github.com/abhii0709/LeetCodes/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/abhii0709/LeetCodes/tree/master/0520-detect-capital) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/abhii0709/LeetCodes/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/abhii0709/LeetCodes/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
