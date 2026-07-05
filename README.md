@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhii0709/LeetCodes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0214-shortest-palindrome](https://github.com/abhii0709/LeetCodes/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/abhii0709/LeetCodes/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/abhii0709/LeetCodes/tree/master/0520-detect-capital) |
 ## Hash Table
@@ -34,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhii0709/LeetCodes/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/abhii0709/LeetCodes/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/abhii0709/LeetCodes/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/abhii0709/LeetCodes/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
