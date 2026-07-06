@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/abhii0709/LeetCodes/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhii0709/LeetCodes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0214-shortest-palindrome](https://github.com/abhii0709/LeetCodes/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/abhii0709/LeetCodes/tree/master/0344-reverse-string) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/abhii0709/LeetCodes/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhii0709/LeetCodes/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Backtracking
 |  |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/abhii0709/LeetCodes/tree/master/0214-shortest-palindrome) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/abhii0709/LeetCodes/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
