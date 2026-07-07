@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/abhii0709/LeetCodes/tree/master/0605-can-place-flowers) |
 | [1480-running-sum-of-1d-array](https://github.com/abhii0709/LeetCodes/tree/master/1480-running-sum-of-1d-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhii0709/LeetCodes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/abhii0709/LeetCodes/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/abhii0709/LeetCodes/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/abhii0709/LeetCodes/tree/master/0520-detect-capital) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhii0709/LeetCodes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
