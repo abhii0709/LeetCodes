@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/abhii0709/LeetCodes/tree/master/0605-can-place-flowers) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/abhii0709/LeetCodes/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/abhii0709/LeetCodes/tree/master/1260-shift-2d-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/abhii0709/LeetCodes/tree/master/1480-running-sum-of-1d-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhii0709/LeetCodes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Prefix Sum
@@ -61,4 +62,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/abhii0709/LeetCodes/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/abhii0709/LeetCodes/tree/master/1260-shift-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/abhii0709/LeetCodes/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
